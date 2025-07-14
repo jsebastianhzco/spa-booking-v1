@@ -8,9 +8,9 @@ $username = "root";
 $password = "";
 */
 
-$db = "acupuncture_reservations";
-$username = "acupuncture_wp1";
-$password = "N^pD5e3LBZ#@(vUs#h)84&*1";
+$db = "";
+$username = "";
+$password = "";
 
 
 
